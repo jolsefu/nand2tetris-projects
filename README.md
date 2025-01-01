@@ -2,7 +2,7 @@
 
 ## Introduction
 This project is from the free online course located in coursera. 
-[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course).](https://www.coursera.org/learn/build-a-computer)
+[Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer).
 This course starts from defining a single *NAND Chip* to building a computer that runs a game like tetris.
 There are 8 modules in total in this course. The modules are:
 1. Introduction
